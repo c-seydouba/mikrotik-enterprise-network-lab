@@ -241,46 +241,39 @@ Screenshots provide visual evidence of the implementation and validation process
 - Cisco DHCP Snooping: [View Screenshot](screenshots/security/cisco-layer2-dhcp-snooping.png)
 - Cisco Layer 2 security: [View Screenshot](screenshots/security/cisco-layer2-security.png)
 
+
 ## Repository Structure
 
 ```text
 mikrotik-enterprise-network-lab/
-│
 ├── configurations/
 │   ├── mikrotik/
 │   │   └── README.md
-│   │
 │   └── cisco-switch/
 │       └── README.md
-│
 ├── docs/
 │   ├── ip-addressing.md
 │   ├── network-topology.md
 │   ├── topology-diagram.md
 │   ├── testing-and-validation.md
 │   └── troubleshooting.md
-│
 ├── screenshots/
 │   ├── vlan/
 │   │   ├── mikrotik-vlan-interfaces.png
 │   │   └── cisco-layer2-vlan-trunk.png
-│   │
 │   ├── firewall/
 │   │   └── mikrotik-firewall-rules.png
-│   │
 │   ├── wireguard/
 │   │   ├── wireguard-handshake.png
 │   │   └── wireguard-connectivity-tests.png
-│   │
 │   ├── testing/
 │   │   └── mikrotik-dhcp-leases.png
-│   │
 │   └── security/
 │       ├── cisco-layer2-dhcp-snooping.png
 │       └── cisco-layer2-security.png
-│
 └── README.md
 ```
+
 
 ## Documentation
 
