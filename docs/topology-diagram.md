@@ -19,5 +19,3 @@ flowchart TB
     SWITCH --- SERVERS
     VPN -.-|"WireGuard tunnel - wg-remote 10.10.10.1"| ROUTER
 ```
-
-VLAN 100 (UNUSED) holds the shut down switch ports, and VLAN 999 (NATIVE) is the native VLAN of the trunk. Neither carries user traffic, so they are not drawn as networks.
