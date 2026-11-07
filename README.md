@@ -282,7 +282,8 @@ mikrotik-enterprise-network-lab/
 │   │   ├── README.md
 │   │   └── mikrotik-project6.rsc
 │   └── cisco-switch/
-│       └── README.md
+│   │   ├── README.md
+│   │   └── sw1-running-config.txt
 ├── docs/
 │   ├── ip-addressing.md
 │   ├── network-topology.md
